@@ -4,6 +4,7 @@ Bu proje, aynı haber olaylarının farklı medya kaynaklarında (yandaş, karş
 
 
 Proje Ekibi
+
 Yılmaz Ongün - 20227170037
 
 Salih Usanmaz - 20227170039
