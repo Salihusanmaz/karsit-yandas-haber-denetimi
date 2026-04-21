@@ -9,4 +9,4 @@ Yılmaz Ongün - 20227170037
 
 Salih Usanmaz - 20227170039
 
-Yunus Emre Taşar
+Yunus Emre Taşar - 20217170070
