@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
+bert_medya_output/
+bert_misleading_model/
+bert_medya_model/
